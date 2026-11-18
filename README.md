@@ -50,16 +50,6 @@ I ship in small, steady pieces: 226 merged pull requests at CopyMe in the last t
   </tr>
 </table>
 
-### Other things I've built
-
-<table>
-  <tr><td nowrap><b>Ifo: Folktales of Africa</b></td><td>A podcast-style app of African folktales in audio and video. I worked on the Flutter app: background playback with lock-screen controls, resume where you left off, and new-episode notifications sent by a Cloud Function.</td></tr>
-  <tr><td nowrap><a href="https://mobilenig.com"><b>Mobilenig</b></a></td><td>Airtime, data and bill payments, with a Flutter app and a Bootstrap web app.</td></tr>
-  <tr><td nowrap><a href="https://www.naira4coin.com/portal/"><b>Naira4coin</b></a></td><td>Buy and sell BTC, ETH and USDT for naira. Flutter with GetX on a REST backend.</td></tr>
-  <tr><td nowrap><a href="https://github.com/Christer1/leaseHaven"><b>LeaseHaven</b></a></td><td>Connects tenants directly with landlords to cut agency fees. I led the team and the PHP backend.</td></tr>
-  <tr><td nowrap><a href="https://www.momartechnologies.com/travelin/index.html"><b>Travelin</b></a></td><td>The full frontend for a flight booking company, in HTML, Bootstrap and Gulp.</td></tr>
-</table>
-
 ### Where I've worked
 
 <table>
@@ -69,6 +59,16 @@ I ship in small, steady pieces: 226 merged pull requests at CopyMe in the last t
   <tr><td valign="top" nowrap><b>Mealfed</b><br/>2025</td><td>Delivery for restaurants, groceries, pharmacies and local stores, <a href="https://www.mealfed.com/app/">on the web</a> and <a href="https://apps.apple.com/us/app/mealfed/id6749938590">on the App Store</a>.<ul><li>Worked on the Flutter customer app for iOS, Android and web: checkout into order details, the Opay payment flow, the home screen's store and product sections, and a wallet in the bottom navigation</li><li>Built Laravel REST APIs for authentication, data management and the core business logic</li></ul></td></tr>
   <tr><td valign="top" nowrap><b>Raolak Technologies</b><br/>2020 to 2024</td><td>Software developer.<ul><li>Built over 50 web applications that partners used to market and sell their products and services</li><li>Built savings and loan software for employees, with automated monthly deductions and recovery</li><li>Built the Raolak Event Portal: event registration, automatic seating plans and live registration analytics for admins</li></ul></td></tr>
   <tr><td valign="top" nowrap><b>OD7 Music</b><br/>2022 to 2023</td><td>Part-time. Built the music website and a voting platform for music competitions.</td></tr>
+</table>
+
+### Other things I've built
+
+<table>
+  <tr><td nowrap><b>Ifo: Folktales of Africa</b></td><td>A podcast-style app of African folktales in audio and video. I worked on the Flutter app: background playback with lock-screen controls, resume where you left off, and new-episode notifications sent by a Cloud Function.</td></tr>
+  <tr><td nowrap><a href="https://mobilenig.com"><b>Mobilenig</b></a></td><td>Airtime, data and bill payments, with a Flutter app and a Bootstrap web app.</td></tr>
+  <tr><td nowrap><a href="https://www.naira4coin.com/portal/"><b>Naira4coin</b></a></td><td>Buy and sell BTC, ETH and USDT for naira. Flutter with GetX on a REST backend.</td></tr>
+  <tr><td nowrap><a href="https://github.com/Christer1/leaseHaven"><b>LeaseHaven</b></a></td><td>Connects tenants directly with landlords to cut agency fees. I led the team and the PHP backend.</td></tr>
+  <tr><td nowrap><a href="https://www.momartechnologies.com/travelin/index.html"><b>Travelin</b></a></td><td>The full frontend for a flight booking company, in HTML, Bootstrap and Gulp.</td></tr>
 </table>
 
 ### Education
